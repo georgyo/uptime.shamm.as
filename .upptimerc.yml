@@ -1,9 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: geprgyp # Your GitHub username
+repo: uptime.shamm.as # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Ifconfig.io
+    url: https://ifconfig.io
+  - name: NYCResistor Wiki
+    url: https://wiki.nycresistor.com
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -12,12 +16,12 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.shamm.as
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
