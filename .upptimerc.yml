@@ -10,6 +10,8 @@ sites:
     url: https://wiki.nycresistor.com
   - name: NYCResistor Blog
     url: https://www.nycresistor.com/
+  - name: NYCR Matrix Synapse
+    url: https://nycr.chat/_matrix/static/
   - name: Shamm.as
     url: https://shamm.as
   - name: Nowossjolka
