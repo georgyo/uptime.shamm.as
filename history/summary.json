@@ -60,18 +60,20 @@
     "url": "https://nycr.chat/_matrix/static/",
     "icon": "https://favicons.githubusercontent.com/nycr.chat",
     "slug": "nycr-matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 69,
-    "timeWeek": 91,
+    "timeDay": 95,
+    "timeWeek": 94,
     "timeMonth": 102,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-23": 0
+    }
   },
   {
     "name": "Shamm.as",
