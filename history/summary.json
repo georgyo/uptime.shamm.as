@@ -98,17 +98,19 @@
     "url": "https://nowossjolka.com/",
     "icon": "https://favicons.githubusercontent.com/nowossjolka.com",
     "slug": "nowossjolka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 764,
-    "timeWeek": 677,
-    "timeMonth": 688,
-    "timeYear": 644,
-    "dailyMinutesDown": {}
+    "time": 679,
+    "timeDay": 1931,
+    "timeWeek": 980,
+    "timeMonth": 771,
+    "timeYear": 679,
+    "dailyMinutesDown": {
+      "2021-03-01": 0
+    }
   }
 ]
