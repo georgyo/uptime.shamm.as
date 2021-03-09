@@ -80,9 +80,9 @@
     "url": "https://shamm.as",
     "icon": "https://favicons.githubusercontent.com/shamm.as",
     "slug": "shamm-as",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +91,8 @@
     "timeWeek": 93,
     "timeMonth": 108,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   }
 ]
