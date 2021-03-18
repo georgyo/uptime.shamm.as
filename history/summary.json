@@ -24,9 +24,9 @@
     "url": "https://wiki.nycresistor.com",
     "icon": "https://favicons.githubusercontent.com/wiki.nycresistor.com",
     "slug": "nyc-resistor-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -36,6 +36,7 @@
     "timeMonth": 469,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2021-03-18": 0,
       "2021-03-16": 9
     }
   },
@@ -83,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/shamm.as",
     "slug": "shamm-as",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 114,
     "timeDay": 91,
     "timeWeek": 149,
