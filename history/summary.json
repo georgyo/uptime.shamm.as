@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 113,
-    "timeWeek": 256,
-    "timeMonth": 206,
+    "timeDay": 155,
+    "timeWeek": 261,
+    "timeMonth": 205,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2021-02-19": 17
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 489,
-    "timeDay": 371,
-    "timeWeek": 462,
-    "timeMonth": 470,
-    "timeYear": 489,
+    "time": 487,
+    "timeDay": 300,
+    "timeWeek": 379,
+    "timeMonth": 465,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2021-03-18": 9,
       "2021-03-16": 9
@@ -46,17 +46,25 @@
     "icon": "https://favicons.githubusercontent.com/www.nycresistor.com",
     "slug": "nyc-resistor-blog",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 213,
-    "timeWeek": 660,
-    "timeMonth": 407,
-    "timeYear": 420,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.62%",
+    "time": 428,
+    "timeDay": 1227,
+    "timeWeek": 590,
+    "timeMonth": 434,
+    "timeYear": 428,
+    "dailyMinutesDown": {
+      "2021-03-18": 9,
+      "2021-03-16": 9,
+      "2021-03-10": 159,
+      "2021-03-09": 251,
+      "2021-03-01": 22,
+      "2021-02-23": 42,
+      "2021-02-19": 17
+    }
   },
   {
     "name": "NYCR Matrix Synapse",
@@ -69,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 161,
-    "timeDay": 128,
-    "timeWeek": 127,
-    "timeMonth": 228,
-    "timeYear": 161,
+    "time": 160,
+    "timeDay": 73,
+    "timeWeek": 122,
+    "timeMonth": 223,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2021-02-23": 42
     }
@@ -90,8 +98,8 @@
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.69%",
     "time": 117,
-    "timeDay": 132,
-    "timeWeek": 142,
+    "timeDay": 123,
+    "timeWeek": 145,
     "timeMonth": 128,
     "timeYear": 117,
     "dailyMinutesDown": {
