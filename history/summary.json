@@ -63,9 +63,9 @@
     "url": "https://nycr.chat/_matrix/static/",
     "icon": "https://favicons.githubusercontent.com/nycr.chat",
     "slug": "nycr-matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -75,6 +75,7 @@
     "timeMonth": 178,
     "timeYear": 171,
     "dailyMinutesDown": {
+      "2021-05-26": 0,
       "2021-04-28": 17,
       "2021-02-23": 42
     }
