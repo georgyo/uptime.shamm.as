@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 218,
-    "timeDay": 188,
-    "timeWeek": 172,
+    "timeDay": 199,
+    "timeWeek": 177,
     "timeMonth": 199,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 806,
-    "timeWeek": 685,
-    "timeMonth": 913,
-    "timeYear": 548,
+    "time": 549,
+    "timeDay": 815,
+    "timeWeek": 702,
+    "timeMonth": 911,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2021-03-18": 9,
       "2021-03-16": 9
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 703,
-    "timeWeek": 574,
-    "timeMonth": 561,
-    "timeYear": 487,
+    "time": 488,
+    "timeDay": 681,
+    "timeWeek": 585,
+    "timeMonth": 564,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 271,
-    "timeDay": 318,
-    "timeWeek": 259,
-    "timeMonth": 208,
+    "timeDay": 328,
+    "timeWeek": 269,
+    "timeMonth": 212,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2021-07-02": 13,
@@ -94,15 +94,35 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 187,
-    "timeDay": 441,
-    "timeWeek": 296,
-    "timeMonth": 379,
-    "timeYear": 187,
+    "time": 188,
+    "timeDay": 416,
+    "timeWeek": 308,
+    "timeMonth": 380,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2021-06-17": 550,
       "2021-03-10": 159,
       "2021-03-09": 251
+    }
+  },
+  {
+    "name": "Nowossjolka",
+    "url": "https://nowossjolka.com/",
+    "icon": "https://favicons.githubusercontent.com/nowossjolka.com",
+    "slug": "nowossjolka",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 684,
+    "timeDay": 1004,
+    "timeWeek": 1004,
+    "timeMonth": 1004,
+    "timeYear": 684,
+    "dailyMinutesDown": {
+      "2021-03-01": 22
     }
   }
 ]
