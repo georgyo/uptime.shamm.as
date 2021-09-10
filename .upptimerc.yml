@@ -14,7 +14,8 @@ sites:
     url: https://nycr.chat/_matrix/static/
   - name: Shamm.as
     url: https://shamm.as
-    
+  - name: Nowossjolka
+    url: https://nowossjolka.com/
 
 assignees: # Users to assign downtime issues (optional)
   - georgyo
