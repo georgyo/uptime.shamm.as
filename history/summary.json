@@ -11,8 +11,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 228,
-    "timeDay": 320,
-    "timeWeek": 804,
+    "timeDay": 216,
+    "timeWeek": 817,
     "timeMonth": 410,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -34,11 +34,11 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
-    "time": 649,
-    "timeDay": 1543,
-    "timeWeek": 1438,
-    "timeMonth": 1369,
-    "timeYear": 683,
+    "time": 650,
+    "timeDay": 1298,
+    "timeWeek": 1460,
+    "timeMonth": 1363,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2022-03-06": 11,
       "2022-01-29": 41,
@@ -59,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 451,
-    "timeDay": 494,
-    "timeWeek": 363,
-    "timeMonth": 320,
+    "timeDay": 426,
+    "timeWeek": 404,
+    "timeMonth": 319,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2021-10-28": 63
@@ -79,9 +79,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.95%",
     "time": 265,
-    "timeDay": 483,
-    "timeWeek": 290,
-    "timeMonth": 259,
+    "timeDay": 337,
+    "timeWeek": 322,
+    "timeMonth": 262,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2022-03-07": 10,
@@ -105,15 +105,15 @@
     "icon": "https://favicons.githubusercontent.com/shamm.as",
     "slug": "shamm-as",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.10%",
+    "uptimeYear": "98.15%",
     "time": 206,
-    "timeDay": 279,
-    "timeWeek": 258,
-    "timeMonth": 214,
+    "timeDay": 310,
+    "timeWeek": 289,
+    "timeMonth": 219,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2021-12-15": 25,
@@ -126,8 +126,7 @@
       "2021-09-28": 836,
       "2021-09-27": 1440,
       "2021-09-26": 1418,
-      "2021-06-17": 550,
-      "2021-03-10": 159
+      "2021-06-17": 550
     }
   },
   {
@@ -141,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 761,
-    "timeDay": 903,
-    "timeWeek": 837,
-    "timeMonth": 825,
-    "timeYear": 792,
+    "time": 762,
+    "timeDay": 999,
+    "timeWeek": 861,
+    "timeMonth": 824,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2021-09-26": 252
     }
