@@ -2,7 +2,7 @@
   {
     "name": "Ifconfig.io",
     "url": "https://ifconfig.io",
-    "icon": "https://favicons.githubusercontent.com/ifconfig.io",
+    "icon": "https://icons.duckduckgo.com/ip3/ifconfig.io.ico",
     "slug": "ifconfig-io",
     "status": "up",
     "uptime": "99.96%",
@@ -28,7 +28,7 @@
   {
     "name": "NYCResistor Wiki",
     "url": "https://wiki.nycresistor.com",
-    "icon": "https://favicons.githubusercontent.com/wiki.nycresistor.com",
+    "icon": "https://icons.duckduckgo.com/ip3/wiki.nycresistor.com.ico",
     "slug": "nyc-resistor-wiki",
     "status": "up",
     "uptime": "99.95%",
@@ -51,7 +51,7 @@
   {
     "name": "NYCResistor Blog",
     "url": "https://www.nycresistor.com/",
-    "icon": "https://favicons.githubusercontent.com/www.nycresistor.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.nycresistor.com.ico",
     "slug": "nyc-resistor-blog",
     "status": "up",
     "uptime": "99.97%",
@@ -75,7 +75,7 @@
   {
     "name": "NYCR Matrix Synapse",
     "url": "https://nycr.chat/_matrix/static/",
-    "icon": "https://favicons.githubusercontent.com/nycr.chat",
+    "icon": "https://icons.duckduckgo.com/ip3/nycr.chat.ico",
     "slug": "nycr-matrix-synapse",
     "status": "up",
     "uptime": "99.31%",
@@ -112,7 +112,7 @@
   {
     "name": "Shamm.as",
     "url": "https://shamm.as",
-    "icon": "https://favicons.githubusercontent.com/shamm.as",
+    "icon": "https://icons.duckduckgo.com/ip3/shamm.as.ico",
     "slug": "shamm-as",
     "status": "up",
     "uptime": "98.91%",
@@ -143,7 +143,7 @@
   {
     "name": "Nowossjolka",
     "url": "https://nowossjolka.com/",
-    "icon": "https://favicons.githubusercontent.com/nowossjolka.com",
+    "icon": "https://icons.duckduckgo.com/ip3/nowossjolka.com.ico",
     "slug": "nowossjolka",
     "status": "up",
     "uptime": "99.91%",
