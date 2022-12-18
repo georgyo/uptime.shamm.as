@@ -12,6 +12,8 @@ sites:
     url: https://www.nycresistor.com/
   - name: NYCR Matrix Synapse
     url: https://nycr.chat/_matrix/static/
+  - name: NYCR Mastodon
+    url: https://nycr.social/api/v1/streaming/health
   - name: Shamm.as
     url: https://shamm.as
   - name: Nowossjolka
