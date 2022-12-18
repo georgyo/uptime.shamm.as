@@ -114,18 +114,20 @@
     "url": "https://nycr.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/nycr.social.ico",
     "slug": "nycr-mastodon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
+    "dailyMinutesDown": {
+      "2022-12-18": 0
+    }
   },
   {
     "name": "Shamm.as",
