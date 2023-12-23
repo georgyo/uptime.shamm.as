@@ -1,7 +1,7 @@
 url: https://nycr.social/api/v1/streaming/health
-status: up
-code: 200
-responseTime: 63
-lastUpdated: 2023-12-22T23:04:46.639Z
+status: down
+code: 502
+responseTime: 346
+lastUpdated: 2023-12-23T12:57:03.391Z
 startTime: 2022-12-18T02:37:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
