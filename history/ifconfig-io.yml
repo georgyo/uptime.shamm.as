@@ -1,7 +1,7 @@
 url: https://ifconfig.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-24T18:11:21.241Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2025-03-24T18:25:25.615Z
 startTime: 2020-12-28T02:04:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
