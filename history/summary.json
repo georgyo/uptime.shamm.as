@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.79%",
-    "time": 314,
-    "timeDay": 322,
-    "timeWeek": 2689,
-    "timeMonth": 889,
-    "timeYear": 324,
+    "time": 315,
+    "timeDay": 759,
+    "timeWeek": 2751,
+    "timeMonth": 906,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2025-07-22": 16,
       "2025-03-24": 327,
@@ -29,14 +29,14 @@
     "slug": "nyc-resistor-wiki",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "84.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.48%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.73%",
-    "time": 436,
-    "timeDay": 277,
-    "timeWeek": 311,
-    "timeMonth": 359,
+    "time": 437,
+    "timeDay": 409,
+    "timeWeek": 333,
+    "timeMonth": 357,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2025-07-27": 223,
@@ -61,8 +61,7 @@
       "2024-09-08": 7,
       "2024-08-17": 39,
       "2024-08-16": 10,
-      "2024-07-30": 320,
-      "2024-07-29": 287
+      "2024-07-30": 320
     }
   },
   {
@@ -76,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 421,
-    "timeDay": 337,
-    "timeWeek": 285,
-    "timeMonth": 312,
-    "timeYear": 381,
+    "time": 423,
+    "timeDay": 1001,
+    "timeWeek": 401,
+    "timeMonth": 331,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-03-31": 22,
       "2025-01-14": 9,
@@ -94,22 +93,21 @@
     "slug": "nycr-matrix-synapse",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "83.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.58%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.64%",
     "time": 275,
-    "timeDay": 123,
-    "timeWeek": 180,
-    "timeMonth": 308,
-    "timeYear": 275,
+    "timeDay": 219,
+    "timeWeek": 189,
+    "timeMonth": 306,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-07-27": 245,
       "2025-03-19": 46,
       "2024-09-25": 955,
       "2024-09-22": 83,
-      "2024-09-16": 537,
-      "2024-07-29": 27
+      "2024-09-16": 537
     }
   },
   {
@@ -119,22 +117,21 @@
     "slug": "nycr-mastodon",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "81.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.31%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.63%",
     "time": 304,
-    "timeDay": 247,
-    "timeWeek": 303,
-    "timeMonth": 296,
+    "timeDay": 357,
+    "timeWeek": 308,
+    "timeMonth": 299,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2025-07-27": 272,
       "2025-03-19": 69,
       "2024-09-25": 954,
       "2024-09-22": 83,
-      "2024-09-16": 536,
-      "2024-07-29": 27
+      "2024-09-16": 536
     }
   },
   {
@@ -144,15 +141,15 @@
     "slug": "shamm-as",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "83.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.69%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.27%",
     "time": 275,
-    "timeDay": 332,
-    "timeWeek": 331,
-    "timeMonth": 343,
-    "timeYear": 303,
+    "timeDay": 436,
+    "timeWeek": 347,
+    "timeMonth": 344,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2025-07-27": 233,
       "2025-01-29": 732,
@@ -165,8 +162,7 @@
       "2024-09-22": 83,
       "2024-09-16": 536,
       "2024-09-08": 7,
-      "2024-07-30": 320,
-      "2024-07-29": 287
+      "2024-07-30": 320
     }
   },
   {
@@ -176,15 +172,15 @@
     "slug": "nowossjolka",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "83.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.38%",
-    "time": 347,
-    "timeDay": 13220,
-    "timeWeek": 6167,
-    "timeMonth": 2229,
-    "timeYear": 403,
+    "time": 348,
+    "timeDay": 864,
+    "timeWeek": 6221,
+    "timeMonth": 2243,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2025-07-27": 232,
       "2024-10-19": 247,
@@ -192,8 +188,7 @@
       "2024-09-22": 657,
       "2024-09-16": 535,
       "2024-09-08": 6,
-      "2024-07-30": 320,
-      "2024-07-29": 285
+      "2024-07-30": 320
     }
   }
 ]
