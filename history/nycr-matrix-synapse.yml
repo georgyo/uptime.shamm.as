@@ -1,7 +1,7 @@
 url: https://nycr.chat/_matrix/static/
-status: up
-code: 200
-responseTime: 302
-lastUpdated: 2025-08-01T23:06:22.632Z
+status: down
+code: 502
+responseTime: 334
+lastUpdated: 2025-08-02T09:57:48.403Z
 startTime: 2020-12-29T19:38:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
