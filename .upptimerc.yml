@@ -18,6 +18,10 @@ sites:
     url: https://shamm.as
   - name: Nowossjolka
     url: https://nowossjolka.com/
+  - name: Forge
+    url: https://forge.scalable.io/api/v1/version
+  - name: Shammas Auth
+    url: https://auth.shamm.as/healthz
 
 assignees: # Users to assign downtime issues (optional)
   - georgyo
