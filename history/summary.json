@@ -198,19 +198,19 @@
     "url": "https://forge.scalable.io/api/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/forge.scalable.io.ico",
     "slug": "forge",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 209,
-    "timeDay": 342,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 214,
+    "timeDay": 291,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2026-03-22": 0
+      "2026-03-22": 16
     }
   },
   {
