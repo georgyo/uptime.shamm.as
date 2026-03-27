@@ -1,7 +1,7 @@
 url: https://surreal.fu.io/health
-status: up
-code: 200
-responseTime: 143
-lastUpdated: 2026-03-26T23:09:54.295Z
+status: down
+code: 404
+responseTime: 159
+lastUpdated: 2026-03-27T11:11:14.132Z
 startTime: 2026-03-20T23:16:24.521Z
 generator: Upptime <https://github.com/upptime/upptime>
