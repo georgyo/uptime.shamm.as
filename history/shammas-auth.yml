@@ -1,7 +1,7 @@
 url: https://auth.shamm.as/healthz
-status: up
-code: 204
-responseTime: 157
-lastUpdated: 2026-04-03T10:53:11.678Z
+status: down
+code: 525
+responseTime: 100
+lastUpdated: 2026-04-03T15:27:26.835Z
 startTime: 2026-03-20T11:14:54.888Z
 generator: Upptime <https://github.com/upptime/upptime>
