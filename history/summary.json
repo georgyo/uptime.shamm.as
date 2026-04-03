@@ -225,19 +225,19 @@
     "url": "https://auth.shamm.as/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/auth.shamm.as.ico",
     "slug": "shammas-auth",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 226,
-    "timeDay": 210,
-    "timeWeek": 245,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 220,
+    "timeDay": 192,
+    "timeWeek": 234,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-04-03": 46
+      "2026-04-03": 63
     }
   },
   {
