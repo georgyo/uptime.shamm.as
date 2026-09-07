@@ -12,8 +12,8 @@
     "uptimeYear": "99.96%",
     "time": 375,
     "timeDay": 143,
-    "timeWeek": 188,
-    "timeMonth": 337,
+    "timeWeek": 197,
+    "timeMonth": 341,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-10-31": 22,
@@ -28,14 +28,14 @@
     "slug": "nyc-resistor-wiki",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.42%",
     "time": 583,
     "timeDay": 170,
-    "timeWeek": 265,
-    "timeMonth": 264,
+    "timeWeek": 256,
+    "timeMonth": 266,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2025-09-28": 223,
@@ -61,7 +61,7 @@
       "2026-08-19": 27,
       "2026-08-23": 22,
       "2026-09-02": 49,
-      "2026-09-07": 0
+      "2026-09-07": 100
     }
   },
   {
@@ -77,7 +77,7 @@
     "uptimeYear": "99.96%",
     "time": 298,
     "timeDay": 162,
-    "timeWeek": 151,
+    "timeWeek": 155,
     "timeMonth": 185,
     "timeYear": 286,
     "dailyMinutesDown": {
@@ -100,8 +100,8 @@
     "uptimeYear": "99.91%",
     "time": 272,
     "timeDay": 329,
-    "timeWeek": 278,
-    "timeMonth": 333,
+    "timeWeek": 282,
+    "timeMonth": 341,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-10-23": 10,
@@ -132,8 +132,8 @@
     "uptimeYear": "99.89%",
     "time": 306,
     "timeDay": 301,
-    "timeWeek": 219,
-    "timeMonth": 226,
+    "timeWeek": 215,
+    "timeMonth": 224,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-11-07": 134,
@@ -164,8 +164,8 @@
     "uptimeYear": "99.97%",
     "time": 284,
     "timeDay": 38,
-    "timeWeek": 219,
-    "timeMonth": 187,
+    "timeWeek": 200,
+    "timeMonth": 191,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-11-07": 134,
@@ -185,8 +185,8 @@
     "uptimeYear": "99.93%",
     "time": 400,
     "timeDay": 107,
-    "timeWeek": 181,
-    "timeMonth": 160,
+    "timeWeek": 185,
+    "timeMonth": 161,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-11-07": 134,
@@ -209,8 +209,8 @@
     "uptimeYear": "99.99%",
     "time": 246,
     "timeDay": 65,
-    "timeWeek": 250,
-    "timeMonth": 351,
+    "timeWeek": 221,
+    "timeMonth": 361,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-03-22": 16,
@@ -230,8 +230,8 @@
     "uptimeYear": "99.96%",
     "time": 181,
     "timeDay": 66,
-    "timeWeek": 188,
-    "timeMonth": 160,
+    "timeWeek": 183,
+    "timeMonth": 163,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2026-04-03": 63,
@@ -252,7 +252,7 @@
     "uptimeYear": "99.96%",
     "time": 286,
     "timeDay": 76,
-    "timeWeek": 211,
+    "timeWeek": 210,
     "timeMonth": 316,
     "timeYear": 286,
     "dailyMinutesDown": {
