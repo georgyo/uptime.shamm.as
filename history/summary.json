@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.nycresistor.com.ico",
     "slug": "nyc-resistor-wiki",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.63%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "99.36%",
     "time": 581,
     "timeDay": 108,
     "timeWeek": 246,
@@ -62,7 +62,7 @@
       "2026-09-02": 49,
       "2026-09-07": 299,
       "2026-09-24": 14,
-      "2026-09-28": 0
+      "2026-09-28": 124
     }
   },
   {
