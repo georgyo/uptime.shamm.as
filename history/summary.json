@@ -233,21 +233,21 @@
     "url": "https://avalon.onl",
     "icon": "https://icons.duckduckgo.com/ip3/avalon.onl.ico",
     "slug": "avalon",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 684,
-    "timeDay": 42370,
-    "timeWeek": 13741,
-    "timeMonth": 3343,
-    "timeYear": 684,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "64.39%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.83%",
+    "time": 831,
+    "timeDay": 39877,
+    "timeWeek": 16696,
+    "timeMonth": 4407,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2026-04-03": 40,
       "2026-04-04": 53,
-      "2026-11-17": 1
+      "2026-11-17": 513
     }
   }
 ]
